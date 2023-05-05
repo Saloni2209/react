@@ -1,0 +1,89 @@
+{
+  "user": [
+    {
+      "name": "saloni patel",
+      "email": "saloni@gmail.com",
+      "password": "1234",
+      "confirmpassword": "1234",
+      "id": "1681972017192"
+    },
+    {
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "password": "4567",
+      "confirmpassword": "4567",
+      "id": "1681972936125"
+    },
+    {
+      "name": "jinal",
+      "email": "jinal@gmail.com",
+      "password": "7894",
+      "confirmpassword": "7894",
+      "id": "1681972976316"
+    },
+    {
+      "name": "jainam",
+      "email": "jainam14595@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": "1681973048924"
+    },
+    {
+      "name": "sachin",
+      "email": "sachin@gmail.com",
+      "password": "789654",
+      "confirmpassword": "789654",
+      "id": "1681981231581"
+    },
+    {
+      "name": "hiral",
+      "email": "hiral@gmail.com",
+      "password": "1234",
+      "confirmpassword": "1234",
+      "id": "1683176828299"
+    }
+  ],
+  "contact": [
+    {
+      "name": "jinal",
+      "email": "jinal@gmail.com",
+      "location": "ahmedabad",
+      "phonenumber": "7896541236",
+      "message": "hii i want a car",
+      "id": "1682265205174"
+    },
+    {
+      "name": "neel",
+      "email": "neel@gmail.com",
+      "location": "vastral",
+      "phonenumber": "9979533250",
+      "message": "hiiii",
+      "id": "1682265322596"
+    },
+    {
+      "name": "jainam",
+      "email": "jainam@gmail.com",
+      "location": "maninagar",
+      "phonenumber": "756987123",
+      "message": "hiii",
+      "id": "1682265352133"
+    },
+    {
+      "name": "saloni patel",
+      "email": "saloni@gmail.com",
+      "location": "ghodasar7",
+      "phonenumber": "7622832310",
+      "message": "hello ",
+      "id": "1682265834013"
+    }
+  ],
+  "admin": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": "1682266835130"
+    }
+  ]
+}
